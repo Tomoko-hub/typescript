@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tomoko-hub/typescript/issues"
   },
-  "homepage": "https://github.com/Tomoko-hub/typescript#readme"
+  "homepage": "https://github.com/Tomoko-hub/typescript#readme",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
 }
