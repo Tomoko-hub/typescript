@@ -1,0 +1,18 @@
+export {};
+
+// abstract:抽象
+abstract class Animal {
+    abstract cry():string;
+}
+
+class Lion extends Animal {
+    cry(){
+        return 'roar';
+    }
+}
+
+class Tiger extends Animal {
+    cry(){
+        return 'garrr';
+    }
+}
