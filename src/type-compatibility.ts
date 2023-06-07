@@ -39,4 +39,3 @@ class Person {
 let me:Animal;
 
 me = new Person(43,'cat');
-
